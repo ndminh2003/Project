@@ -15,7 +15,7 @@ HAVE FUN !!!!!!!!
 ![A7](https://user-images.githubusercontent.com/72427157/206398848-cd62da22-6683-4cf8-bf24-247f1344272a.PNG)
 * **Sentimental Analysis From Scratch**\
 ![A8](https://user-images.githubusercontent.com/72427157/206398860-384fe723-ef2b-4e60-8e5d-998b75b563a0.PNG)\
-![A9](https://user-images.githubusercontent.com/72427157/206398870-459899b7-b32e-485f-bcd8-857bdc964904.PNG)\
+![A9](https://user-images.githubusercontent.com/72427157/206398870-459899b7-b32e-485f-bcd8-857bdc964904.PNG)
 * **Spam Email Model From Scratch**\
 ![A10](https://user-images.githubusercontent.com/72427157/206398742-c268d5f1-7008-445a-b5a9-fb69035f650c.PNG)
 
