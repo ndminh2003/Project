@@ -18,5 +18,6 @@ HAVE FUN !!!!!!!!
 ![A9](https://user-images.githubusercontent.com/72427157/206398870-459899b7-b32e-485f-bcd8-857bdc964904.PNG)
 * **Spam Email Model From Scratch**\
 ![A10](https://user-images.githubusercontent.com/72427157/206398742-c268d5f1-7008-445a-b5a9-fb69035f650c.PNG)
-
+* **Neflix Dashboard**\
+![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/8a9d6f9f-ca87-489a-b237-d4af268044da)
 
