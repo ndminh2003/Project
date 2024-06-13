@@ -20,4 +20,13 @@ HAVE FUN !!!!!!!!
 ![A10](https://user-images.githubusercontent.com/72427157/206398742-c268d5f1-7008-445a-b5a9-fb69035f650c.PNG)
 * **Neflix Dashboard**\
 ![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/8a9d6f9f-ca87-489a-b237-d4af268044da)
+* **Agriculture Dashboard**\
+![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/0787353b-19ba-424a-8c51-07880db07cef)
+![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/50d10cc9-17de-4673-900e-fd40584fe8ff)
+
+* **Pasea Sales Dashboard**\
+![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/b6180829-8b37-4f97-9c15-1b345cac79ff)
+![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/6c7c3696-f522-416b-8271-1d9107dbe9c8)
+![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/e983ca20-be5a-4df2-9803-1ebcdc8aba76)
+![image](https://github.com/ndminh2003/Learning_Project/assets/72427157/27d7c6aa-d608-4856-ad56-625ed2e800c8)
 
